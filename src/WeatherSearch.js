@@ -55,7 +55,9 @@ export default function WeatherSearch() {
       <p>{humidity}</p>
       <p>{description}</p>
       <p>{icon}</p>
-      <p>Coded by Dimbee</p>
+      <p>
+        Coded by <a href="https://github.com/dimbee40/wk4-HW-DW">Deb</a>
+      </p>
     </div>
   );
 }
